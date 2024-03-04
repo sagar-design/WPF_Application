@@ -29,7 +29,7 @@ namespace WPF_Info
             InitializeComponent();
             Data();
             Autoincrement();
-           
+            Console.WriteLine("Hii this is vaibhav and yes its working");
         }
         public void Autoincrement()
         {
